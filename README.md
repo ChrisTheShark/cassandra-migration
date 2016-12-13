@@ -6,7 +6,7 @@ This is a simple utility to transfer data from one Cassandra host to another. Th
 
 This utilty can be invoked using the following format:
 
-npm start <KEYSPACE> <FROM_HOST> <TO_HOST>
+`npm start <KEYSPACE> <FROM_HOST> <TO_HOST>`
 
 ## Motivation
 
