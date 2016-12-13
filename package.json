@@ -8,7 +8,7 @@
     "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
-    "url": "",
+    "url": "https://github.com/ChrisTheShark/cassandra-migration.git",
     "type": "git"
   },
   "author": "Chris Dyer",
