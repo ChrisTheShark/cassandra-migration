@@ -1,0 +1,25 @@
+{
+  "name": "cassandra-migrate",
+  "version": "0.0.1",
+  "description": "Simple utility to transfer data from one Cassandra node to another.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --max-old-space-size=4096 index.js",
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "author": "Chris Dyer",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "cassandra-driver": "^3.1.6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.6"
+  }
+}
