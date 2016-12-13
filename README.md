@@ -1,6 +1,6 @@
 ## Cassandra-Migrator
 
-[![Build Status](https://travis-ci.org/ChrisTheShark/cassandra-migrator.svg?branch=master)](https://travis-ci.org/ChrisTheShark/cassandra-migrator)
+[![Build Status](https://travis-ci.org/ChrisTheShark/cassandra-migration.svg?branch=master)](https://travis-ci.org/ChrisTheShark/cassandra-migration)
 
 ## Synopsis
 
