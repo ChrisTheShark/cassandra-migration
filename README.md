@@ -10,4 +10,4 @@ This utilty can be invoked using the following format:
 
 ## Motivation
 
-There is no reason to migrate data between two nodes in the same cluster. There was a need to transfer data from one host on one cluster to another host in a different cluster to support business validation of the data within the from node.
+There is no reason to migrate data between two nodes in the same cluster. There was a need to transfer data from one host on one cluster to another host in a different cluster to support business validation of the data within the 'from' node.
