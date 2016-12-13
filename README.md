@@ -1,3 +1,7 @@
+## Cassandra-Migrator
+
+[![Build Status](https://travis-ci.org/ChrisTheShark/cassandra-migrator.svg?branch=master)](https://travis-ci.org/ChrisTheShark/cassandra-migrator)
+
 ## Synopsis
 
 This is a simple utility to transfer data from one Cassandra host to another. The utility assumes the keyspace to migrate exists on both hosts.
