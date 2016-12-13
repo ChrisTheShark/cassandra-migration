@@ -1,5 +1,5 @@
 {
-  "name": "cassandra-migrate",
+  "name": "cassandra-migration",
   "version": "0.0.1",
   "description": "Simple utility to transfer data from one Cassandra node to another.",
   "main": "index.js",
